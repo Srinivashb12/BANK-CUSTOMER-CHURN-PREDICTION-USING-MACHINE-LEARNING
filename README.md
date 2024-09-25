@@ -1,2 +1,2 @@
 # BANK-CUSTOMER-CHURN-PREDICTION-USING-MACHINE-LEARNING
-# Predicting bank customer churn.
+# Predicting Bank Customer Churn.
